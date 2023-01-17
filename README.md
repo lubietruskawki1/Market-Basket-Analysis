@@ -1,4 +1,4 @@
-# Transaction data
+# Market basket analysis
 
 ## Set up
 
