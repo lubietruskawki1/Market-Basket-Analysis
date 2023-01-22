@@ -7,7 +7,7 @@
 ```bash
 python3 -m venv .venv
 . run.sh
-pip install requirements.txt
+pip install -r requirements.txt
 jupyter notebook
 ```
 
