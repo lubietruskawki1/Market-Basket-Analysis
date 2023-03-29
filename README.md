@@ -1,21 +1,21 @@
 # Market Basket Analysis
 Big data mining and processing of transactional data by performing a Market Basket Analysis.
 
-## Set up
+### Set up
 
-#### First time
+##### First time
 
 ```bash
 python3 -m venv .venv
-. run.sh
+source ".venv/bin/activate"
 pip install -r requirements.txt
 jupyter notebook
 ```
 
-#### Every other time
+##### Every other time
 
 ```bash
-. run.sh
+source ".venv/bin/activate"
 jupyter notebook
 ```
 
