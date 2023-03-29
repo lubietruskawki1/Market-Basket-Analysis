@@ -1,9 +1,9 @@
 # Market Basket Analysis
 Big data mining and processing of transactional data by performing a Market Basket Analysis.
 
-### Set up
+## Set up
 
-##### First time
+#### First time
 
 ```bash
 python3 -m venv .venv
@@ -12,14 +12,14 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-##### Every other time
+#### Every other time
 
 ```bash
 source ".venv/bin/activate"
 jupyter notebook
 ```
 
-##### To exit venv use
+#### To exit venv use
 
 ```bash
 deactivate
