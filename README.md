@@ -1,4 +1,5 @@
-# Market basket analysis
+# Market Basket Analysis
+Big data mining and processing of transactional data by performing a Market Basket Analysis.
 
 ## Set up
 
